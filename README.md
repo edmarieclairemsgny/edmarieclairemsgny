@@ -1,8 +1,9 @@
+
 <h2 align="left">Hi, how are you? My name is Edmarie Claire, and I'm a Computer Science Student, from NVC.</h2>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/fc/cf/eb/fccfebc8ce710e18edd6862eb9c0cf84.gif"  />
 
 ###
 
